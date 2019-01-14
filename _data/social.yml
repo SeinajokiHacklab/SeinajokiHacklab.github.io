@@ -19,8 +19,9 @@
   url: https://github.com/SeinajokiHacklab
 
 - name: GoogleDrive
-  icon: fa-drive
+  icon: fa-google-drive
   url: https://drive.google.com/drive/folders/0ByHfZWBLc0luZEUzWjNUSmV2TTg?usp=sharing
+
 
 #- name: Flickr
 #  icon: fa-flickr

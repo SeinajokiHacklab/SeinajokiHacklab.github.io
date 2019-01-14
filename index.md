@@ -8,10 +8,19 @@ Tulevat tapahtumat on merkitty [kalenteriin](/kalenteri/)
 
 <ul id="events-upcoming"></ul>
 
+# Avainmaksut ja Jäsenmaksut
+Yhdistyksen tapahtumiin voi osallistua jos on maksanut jäsenmaksun. Jäsenmaksu on 20€/vuosi per jäsen.
+Avainmaksu on 35€/kk jolloin saa pääsyn tiloihin 24/7. Muuten tilat on vain sovittuina aikoina jäsenille avoinna.
+
+Maksun voi suorittaa Seinäjoki Hacklab RY:n tilille: FI28 5419 0120 2755 85 . Laita viestiksi esimerkiksi "Jäsenmaksu 2019" tai "Avainmaksu 1/19".
+
+
+# Kauppakatu 25, 60100 Seinäjoki
+Joulukuussa 2018 löysimme tilat Kauppakatu 25, 60100 Seinäjoelta. Tilat on vielä remontti kunnossa ja talkooporukkaa tarvitaan auttamaan tilojen työstämisessä.
+Nyt on hyvä aika liittyä avainmaksajaksi tai vain tulla mukaan auttamaan tilojen luomisessa, sillä niin saadaan tiloista mahdollisimman hyvin käyttäjien tarpeisiin sopivat. 
+
 # Seinäjoki Hacklab - yhteisöllinen paja
 Olemme perustaneet Seinäjoelle yhteisöllisen työpajan, jossa pystyy toteuttamaan erilaisia teknisiä projekteja yhdessä tai yksin. Voit olla esimerkiksi taiteilija, suunnittelija, insinööri, muusikko tai aivan kuka tahansa joka haluaa käyttää teknologiaa jonkin vempaimen rakentamiseen. Toiminta on voittoa tavoittelematonta.
-
-Etsimme tällä hetkellä tiloja.
 
 # Hacklab? Mikä ihmeen häkläp?
 <blockquote>

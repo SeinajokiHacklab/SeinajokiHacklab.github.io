@@ -17,8 +17,11 @@
   - title: Säännöt
     link: /yhdistys/saannot/
 
-#  - title: Tilasäännöt
-#    link: /yhdistys/tilasaannot/
+  - title: Tilasäännöt
+    link: /yhdistys/tilasaannot/
 
-- title: Wiki
-  link:  https://doc.seinajoki.hacklab.fi/w/
+- title: Tilat
+  link: /tilat/
+
+#- title: Wiki
+#  link:  https://doc.seinajoki.hacklab.fi/w/

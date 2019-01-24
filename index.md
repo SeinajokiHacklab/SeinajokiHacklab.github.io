@@ -8,6 +8,9 @@ Tulevat tapahtumat on merkitty [kalenteriin](/kalenteri/)
 
 <ul id="events-upcoming"></ul>
 
+# Yhdistyksen Kevätkokous
+Tervetuloa Hacklab Seinäjoen kevätkokoukseen 4.2 kello 18:00. Kokous pidetään labin uusissa tiloissa Kauppakatu 25, 60100 Seinäjoki ja kaikki ovat tervetulleita. <a href='https://drive.google.com/file/d/1j3pi2-MwIzSWZ3e_me4Qh2fAUwQPE0_6/view'>Tästä pääset katselemaan kokouksen esityslistaa</a>
+
 # Avainmaksut ja Jäsenmaksut
 Yhdistyksen tapahtumiin voi osallistua jos on maksanut jäsenmaksun. Jäsenmaksu on 20€/vuosi per jäsen.
 Avainmaksu on 35€/kk jolloin saa pääsyn tiloihin 24/7. Muuten tilat on vain sovittuina aikoina jäsenille avoinna.
